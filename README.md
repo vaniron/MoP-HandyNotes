@@ -20,3 +20,8 @@ https://www.curseforge.com/wow/addons/timelessislechests
 https://www.curseforge.com/wow/addons/handynotes_guild
 
 https://www.curseforge.com/wow/addons/handy-notes-pandaria-treasures
+
+# Contact & Donations
+You can add me on discord: **vanironcz**
+
+If you wanna support this fork, you can do so via https://www.paypal.com/donate/?hosted_button_id=FSQQQGRSBDA58
